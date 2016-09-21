@@ -111,4 +111,8 @@ a:hover {
     max-width: 33.3333%;
     text-align: left;
   }
+
+  .text {
+    text-align: center;
+  }
 }
