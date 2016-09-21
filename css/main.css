@@ -16,3 +16,17 @@ html {
 *, *::before, *::after {
 	box-sizing: inherit;
 }
+
+body {
+  background-color: #e2e2e2;
+  margin: 0;
+}
+
+section {
+  text-align: left;
+}
+
+.img-flex {
+  display: block;
+  width: 100%;
+}
