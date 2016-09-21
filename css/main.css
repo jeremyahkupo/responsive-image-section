@@ -94,3 +94,20 @@ a:hover {
     padding-top: 1rem;
   }
 }
+
+@media only screen and (min-width: 90em) {
+
+  html {
+    font-size: 130%;
+    line-height: 1.5;
+  }
+
+  section {
+    text-align: center;
+  }
+
+  .content, .img-wrap {
+    max-width: 33.3333%;
+    text-align: left;
+  }
+}
